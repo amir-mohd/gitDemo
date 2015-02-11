@@ -1,0 +1,8 @@
+$ git branch -d [name_of_your_new_branch]
+
+
+git branch -d the_local_branch
+
+To remove a remote branch (if you know what you are doing!)
+
+git push origin :the_remote_branch
